@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-odl5rs.cuansalam.sbs/sitemap.xml
